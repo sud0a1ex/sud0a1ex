@@ -10,6 +10,8 @@
 ✦ **Currently Learning:** C, C++, embedded systems, and system architecture.<br>
 ✦ **Current Goal:** Developing open-source software for solving real world problems.
 
+[✰ Projects List](https://github.com/sud0a1ex/sud0a1ex/blob/main/PROJECTS.md "Project List")
+
 ---
 
 ### 💻 Tech Stack
