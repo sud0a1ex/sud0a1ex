@@ -6,7 +6,7 @@ Second type will be called "Junk Projects". Because it's just a project I built 
 </p><hr>
 <h3>★ Proud Projects</h3>
 <ul>
-  <li>Currently none.</li>
+  <li>[Python] <a href="https://github.com/sud0a1ex/WinniePy">WinniePy</a> : GUI framework based on Tkinter made for simplicity.</li>
 </ul>
 <h3>✭ Junk Projects</h3>
 <ul>
