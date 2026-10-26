@@ -28,10 +28,11 @@
 ---
 
 <h3 align="center">📈 Stats</h3>
-<p align="center">
-  <img height="160" src="https://github-readme-stats-extended.vercel.app/api?username=sud0a1ex&show_icons=true&theme=dracula&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=sud0a1ex&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sud0a1ex&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=sud0a1ex&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=nord) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sud0a1ex&layout=compact&theme=nord)](https://github-stats-extended.vercel.app/api/top-langs?username=sud0a1ex&layout=compact&theme=nord)
+
+</div>
 
 ---
 
